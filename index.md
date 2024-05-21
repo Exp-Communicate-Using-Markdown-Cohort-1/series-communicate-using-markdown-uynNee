@@ -16,6 +16,6 @@
 this is pretty cool
 ```
 
-- [x] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [x] Introduce myself to the world
